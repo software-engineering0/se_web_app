@@ -1,2 +1,2 @@
-# Developer Branch
-For work in progress versions of the website so the Server does not auto-pull!
+# Main Branch
+For complete versions of the website so the Server auto-pulls!
